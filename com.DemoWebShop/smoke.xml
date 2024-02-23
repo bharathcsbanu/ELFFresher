@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.DemoWebShop.testScripts.LoginTest"/>
+      <class name="com.demowebshop.testscripts.RegisterTest"/>
+      <class name="com.demowebshop.testscripts.LoginTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
